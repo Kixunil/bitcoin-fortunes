@@ -1,0 +1,62 @@
+The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.
+%
+The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. 
+%
+If you don't believe it or don't get it, I don't have the time to try to convince you, sorry.
+%
+I don't believe a second, compatible implementation of Bitcoin will ever be a good idea.
+%
+A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them.
+%
+This isn't the kind of software where we can leave so many unresolved bugs that we need a tracker for them.
+%
+Proof-of-work has the nice property that it can be relayed through untrusted middlemen. We don’t have to worry about a chain of custody of communication. It doesn’t matter who tells you a longest chain, the proof-of-work speaks for itself.
+%
+Lost coins only make everyone else's coins worth slightly more.  Think of it as a donation to everyone.
+%
+Yes, [we will not find a solution to political problems in cryptography,] but we can win a major battle in the arms race and gain a new territory of freedom for several years.
+%
+Governments are good at cutting off the heads of a centrally controlled networks like Napster, but pure P2P networks like Gnutella and Tor seem to be holding their own.
+%
+I'm sure that in 20 years there will either be very large transaction volume or no volume.
+%
+Sigh... why delete a wallet instead of moving it aside and keeping the old copy just in case?  You should never delete a wallet.
+%
+For greater privacy, it's best to use bitcoin addresses only once.
+%
+As you figured out, the root problem is we shouldn't be counting or spending transactions until they have at least 1 confirmation.
+%
+As computers get faster and the total computing power applied to creating bitcoins increases, the difficulty increases proportionally to keep the total new production constant. Thus, it is known in advance how many new bitcoins will be created every year in the future.
+%
+Sorry to be a wet blanket. Writing a description for this thing for general audiences is bloody hard. There's nothing to relate it to.
+%
+Nodes are not going to accept an invalid transaction as payment, and honest nodes will never accept a block containing them.
+%
+With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure and transactions effortless.
+%
+It is strictly necessary that the longest chain is always considered the valid 
+one.  Nodes that were present may remember that one branch was there first and 
+got replaced by another, but there would be no way for them to convince those 
+who were not present of this.
+%
+We can't have subfactions of nodes that cling to 
+one branch that they think was first, others that saw another branch first, and 
+others that joined later and never saw what happened.
+%
+The CPU power proof-of-work vote must have the final say.  The only way for everyone to stay on the same page is to believe that the longest chain is always the valid one, no matter what.
+%
+There’s no such thing as being 1% towards solving a block. You don’t make progress towards solving it. After working on it for 24 hours, your chances of solving it are equal to what your chances were at the start or at any moment.
+%
+The utility of the exchanges made possible by Bitcoin will far exceed the cost of electricity used. Therefore, not having Bitcoin would be the net waste.
+%As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties:
+- boring grey in colour
+- not a good conductor of electricity
+- not particularly strong, but not ductile or easily malleable either
+- not useful for any practical or ornamental purpose
+
+and one special, magical property:
+- can be transported over a communications channel
+
+If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it.
+
+Maybe it could get an initial value circularly as you've suggested, by people foreseeing its potential usefulness for exchange.  (I would definitely want some)  Maybe collectors, any random reason could spark it.
