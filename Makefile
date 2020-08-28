@@ -1,4 +1,4 @@
-NAMES=aantonop-quotes btc-jokes random-btc-history satoshi-quotes random-btc
+NAMES=aantonop-quotes btc-jokes random-btc-history satoshi-quotes other-btc-quotes
 DAT_FILES=$(patsubst %, %.dat, $(NAMES))
 U8_FILES=$(patsubst %, %.u8, $(NAMES))
 
